@@ -1,0 +1,98 @@
+
+.logo {
+    display: flex;
+    width: 400px;
+    margin: auto;
+}
+.container{
+    display: flex;
+    background-color: #30A894;
+    margin-left: 13%;
+    margin-right: 13%;
+    justify-content: space-evenly;
+    font-size: 2em;
+    align-items: center;
+}
+.container ul {
+    display: flex;
+}
+.container li {
+    list-style: none;
+}
+.block1 a {
+    color: white;
+    text-decoration: none;
+    padding: 3rem;
+}
+body{
+    background-color: #F2F2F3;
+}
+.container2 {
+    display: flex;
+}
+.block2 {
+    margin-left: 13%;
+    margin-top: 1%;
+    justify-content: start;
+}
+.block3 h1 {
+    background-color:#30A894;
+    height: 50px;
+    width: auto;
+    align-items: center;
+    color: white;
+    padding-top: 25px;
+    padding-left: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.block3 {
+    margin-right: 33%;
+    margin-left: 3%;
+    align-items: center;
+    background-color: #B8DCB1;
+    padding: 10px;
+
+}
+.block3 p {
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+    color: grey
+}
+
+.container3 {
+    margin-right: 39%;
+    margin-left: 13%;
+    margin-top: -6%;
+}
+.container3 h1 {
+    background-color: #30A894;
+    padding: 15px;
+    color: white;
+}
+.container3 p {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+    color: grey
+}
+.logo2 {
+    display: flex;
+    width: 400px;
+    margin: auto;
+    margin-top: 10%;
+}
+.fin {
+    text-align: center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    color: grey
+}
+.fin a {
+    color: #6DAFB3;
+    text-decoration: none;
+}
